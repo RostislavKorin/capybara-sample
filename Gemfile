@@ -1,0 +1,11 @@
+source 'https://rubygems.org'
+gem 'rspec'
+gem 'capybara'
+gem 'capybara-selenium'
+gem 'capybara-screenshot'
+gem 'selenium-webdriver'
+gem 'geckodriver-helper'
+gem 'chromedriver-helper'
+
+# gem 'poltergeist'
+# gem 'phantomjs-binaries'
